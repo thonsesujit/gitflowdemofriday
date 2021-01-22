@@ -6,8 +6,10 @@
     <pages>
       <Page title="{i18n>title}">
         <content>
+          
           <Button text="featureButtonweek1"></Button>
           <Button text="week3UI"></Button>
+          <Button text="featureweek2UI"></Button>
         </content>
       </Page>
     </pages>
