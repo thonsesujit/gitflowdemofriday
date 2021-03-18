@@ -10,6 +10,7 @@
           <Button text="featureButtonweek1"></Button>
           <Button text="week3UI"></Button>
           <Button text="featureweek2UI"></Button>
+          <Button text="featureweek2UI"></Button>
         </content>
       </Page>
     </pages>
